@@ -1,16 +1,28 @@
-### Hi there 👋
+### Prazer, meu nome é Camille Braga!
 
-<!--
-**millebns/millebns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mim:**
 
-Here are some ideas to get you started:
+- 👩‍🎓 Formada em matemática pela UERJ.
+- 👩‍🏫👩‍💻 Uma professora de matemática se aventurando ao mundo da programação. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Linguagens e Ferramentas:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg"  width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20" height="20" />
+
+<br>
+
+**🌱 Atualmente estou aprendendo:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>
+
+<br>
+
+**📫 Como entrar em contato comigo:** 
+<div>
+<a href = "millebns@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/millebns" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+
