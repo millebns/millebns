@@ -2,9 +2,9 @@
 
 **Sobre mim:**
 
-- 👩‍🎓 Mestranda em Ciencias Computacionais e Modelagem Matemática pela UERJ.
+- 👩‍🎓 Mestre em Ciencias Computacionais e Modelagem Matemática pela UERJ.
 - 👩‍🎓 Formada em matemática pela UERJ.
-- 👩‍🏫👩‍💻 Uma professora de matemática se aventurando ao mundo da programação. 
+- 👩‍🏫👩‍💻 Professora de programação. 
 
 <br>
 
