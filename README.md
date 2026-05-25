@@ -2,6 +2,7 @@
 
 **Sobre mim:**
 
+- 👩‍🎓 Doutoranda em Ciência da Computação pela UFF.
 - 👩‍🎓 Mestre em Ciencias Computacionais e Modelagem Matemática pela UERJ.
 - 👩‍🎓 Formada em matemática pela UERJ.
 - 👩‍🏫👩‍💻 Professora de programação. 
